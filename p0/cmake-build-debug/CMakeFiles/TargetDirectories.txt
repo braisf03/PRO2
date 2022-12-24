@@ -1,0 +1,5 @@
+C:/Users/Brais/Desktop/p0/cmake-build-debug/CMakeFiles/Rational.dir
+C:/Users/Brais/Desktop/p0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Brais/Desktop/p0/cmake-build-debug/CMakeFiles/Rational_pointer.dir
+C:/Users/Brais/Desktop/p0/cmake-build-debug/CMakeFiles/Rational_struct.dir
+C:/Users/Brais/Desktop/p0/cmake-build-debug/CMakeFiles/edit_cache.dir
