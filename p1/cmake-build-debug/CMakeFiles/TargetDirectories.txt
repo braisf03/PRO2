@@ -1,0 +1,4 @@
+C:/@MisProgramas/JetBrains/PRO2/P.1/PRO2_P1_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/@MisProgramas/JetBrains/PRO2/P.1/PRO2_P1_Final/cmake-build-debug/CMakeFiles/main.dir
+C:/@MisProgramas/JetBrains/PRO2/P.1/PRO2_P1_Final/cmake-build-debug/CMakeFiles/test_lists.dir
+C:/@MisProgramas/JetBrains/PRO2/P.1/PRO2_P1_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
