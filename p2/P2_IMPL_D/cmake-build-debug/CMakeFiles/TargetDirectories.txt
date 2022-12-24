@@ -1,0 +1,5 @@
+C:/@MisProgramas/JetBrains/PRO2/P2_IMPL_D/cmake-build-debug/CMakeFiles/test_product_list.dir
+C:/@MisProgramas/JetBrains/PRO2/P2_IMPL_D/cmake-build-debug/CMakeFiles/test_bid_stack.dir
+C:/@MisProgramas/JetBrains/PRO2/P2_IMPL_D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/@MisProgramas/JetBrains/PRO2/P2_IMPL_D/cmake-build-debug/CMakeFiles/main.dir
+C:/@MisProgramas/JetBrains/PRO2/P2_IMPL_D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
