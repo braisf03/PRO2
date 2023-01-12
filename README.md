@@ -1,6 +1,6 @@
 # Programación 2
 
-Prácticas Programación 2 (curso 2020/21)
+Prácticas Programación 2 (curso 2021/22)
 
 ## Calificaciones
 
