@@ -1,9 +1,3 @@
-/*
- * TITLE: PROGRAMMING II LABS       SUBTITLE: Practical1
- * AUTHOR 1: Brais Sánchez Ferreiro LOGIN 1: brais.sferreiro
- * AUTHOR 2: José Moreira Fariña    LOGIN 2: j.moreira1
- * GROUP: 3.3                       DATE: 25 / 03 / 22
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
