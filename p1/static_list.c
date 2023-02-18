@@ -1,11 +1,3 @@
-/*
- * TÍTULO: PROGRAMACIÓN II LABORATORIOS
- * SUBTÍTULO: Práctica 1
- * AUTOR 1: Brais Sánchez Ferreiro USUARIO 1: brais.sferreiro
- * AUTOR 2: José Moreira Fariña    USUARIO 2: j.moreira1
- * GRUPO: 3.3
- * FECHA: 11 / 03 / 22
- */
 #include "static_list.h"
 
 void createEmptyList(tList *L) {  //Crea una lista poniendo el lastPos en -1/NULL.
