@@ -1,12 +1,3 @@
-/*
- * TÍTULO: PROGRAMACIÓN II LABORATORIOS
- * SUBTÍTULO: Práctica 1
- * AUTOR 1: Brais Sánchez Ferreiro USUARIO 1: brais.sferreiro
- * AUTOR 2: José Moreira Fariña    USUARIO 2: j.moreira1
- * GRUPO: 3.3
- * FECHA: 04 / 03 / 22
- */
-
 #ifndef DYNAMIC_LIST_H
 #define DYNAMIC_LIST_H
 
