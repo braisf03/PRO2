@@ -1,12 +1,3 @@
-/*
- * TITLE: PROGRAMMING II LABS
- * SUBTITLE: Practical 2
- * AUTHOR 1: Brais Sánchez Ferreiro        LOGIN 1: brais.sferreiro
- * AUTHOR 2: José Moreira Fariña           LOGIN 2: j.moreira1
- * GROUP: 3.3
- * DATE: 29 / 04 / 22
- */
-
 #ifndef PRODUCT_LIST_H
 #define PRODUCT_LIST_H
 
