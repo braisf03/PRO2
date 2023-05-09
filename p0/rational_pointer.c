@@ -1,4 +1,3 @@
-//Brais Sánchez Ferreiro y Jose Moreira Fariña
 #include "rational_pointer.h"
 #include <malloc.h>
 
