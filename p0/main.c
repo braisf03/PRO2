@@ -1,4 +1,3 @@
-//Brais Sánchez Ferreiro y Jose Moreira Fariña
 #include <stdio.h>
 //#include "rational_struct.h"
 #include "rational_pointer.h"
