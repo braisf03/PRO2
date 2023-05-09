@@ -1,4 +1,3 @@
-//Brais Sánchez Ferreiro y Jose Moreira Fariña
 #ifndef RATIONAL_RATIONAL_POINTER_H
 #define RATIONAL_RATIONAL_POINTER_H
 
