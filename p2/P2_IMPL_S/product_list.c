@@ -1,12 +1,3 @@
-/*
- * TITLE: PROGRAMMING II LABS
- * SUBTITLE: Practical 2
- * AUTHOR 1: Brais Sánchez Ferreiro        LOGIN 1: brais.sferreiro
- * AUTHOR 2: José Moreira Fariña           LOGIN 2: j.moreira1
- * GROUP: 3.3
- * DATE: 29 / 04 / 22
- */
-
 #include "product_list.h"
 
 tPosL findPosition(tList L, tItemL d){ //Devuelve la posición del elemento en la lista
