@@ -1,4 +1,3 @@
-//Brais Sánchez Ferreiro y Jose Moreira Fariña
 #include "rational_struct.h"
 
 Rational createRational(int n, int d) {
